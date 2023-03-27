@@ -34,7 +34,7 @@
 - [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](mailto:nik.repin.86@yandex.ru)
 
 ---
-### ⚙️ GitHub статистика:
+### ⚙️ *GitHub статистика:*
 
 <table>
   <tr>
